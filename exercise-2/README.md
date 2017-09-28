@@ -7,6 +7,7 @@ In the space below, make a three column table of the current courses you are tak
 See `complete` branch for answers.
 
 | Course Number | Course Title | Course Instructor |
+| ------------ |  ------------ | ------------ |
 | **11007** | _Intermediate Macroeconomics_ | Frances Maloy |
 | **15204** | _Financial Theory and Analysis_ | William Bradford |
 | **16576** | _Intellectual Foundations of Informatics_ | Scott Barker |
