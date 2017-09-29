@@ -9,3 +9,18 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# pwd
+The `pwd` command can be used to **print** the current working directory. For example, in the ~/Desktop directory:
+```
+pwd
+```
+results in the output
+```
+/c/users/your_name/Desktop
+```
+Some more information:
+- It can print the win32 format with the -W command as so `pwd -W`
+- The exit status returns 0 unless an invalid location is given or the current directory cannot be read
+
+_How fun!_
